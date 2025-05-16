@@ -1,0 +1,31 @@
+<resources>
+    <!-- Labels -->
+    <string name="app_name">Practica2</string>
+    <string name="add_height">Height(cm)</string>
+    <string name="body_mass_index">Índice de Masa Corporal</string>
+
+    <string name="write_height_cm">Write height here</string>
+    <string name="add_weight">Weigth (kg)</string>
+    <string name="write_weight_kg">Write weight here</string>
+    <string name="calc_imc">Calculate BMI</string>
+    <string name="error_message">Error algo paso</string>
+    <string name="result_message">Exito Tu IMC es %1$s</string>
+    <string name="less_than_18_5">Menor a 18.5</string>
+    <string name="under_weight">Bajo peso</string>
+
+    <string name="between18_5_and_24_9">Entre 18.5 y 24.9</string>
+    <string name="normal_weight">Peso normal</string>
+
+    <string name="between25_and_29_9">Entre 25 y 29.9</string>
+    <string name="overweight">Sobrepeso</string>
+
+    <string name="between30_and_34_9">Entre 30 y 34.9</string>
+    <string name="class1_obesity">Obesidad Clase 1</string>
+
+    <string name="between35_and_39_9">Entre 35 y 39.9</string>
+    <string name="class2_obesity">Obesidad Clase 2</string>
+
+    <string name="more_than_40">Mayor a 40</string>
+    <string name="class3_obesity">Obesidad Clase 3</string>
+
+</resources>
